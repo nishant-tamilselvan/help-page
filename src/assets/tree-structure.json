@@ -1,0 +1,21 @@
+{
+    "topics": [
+        {
+            "title": "Topic-1",
+            "children": [
+                {
+                    "title": "Page-1",
+                    "pageId": "page1"
+                },
+                {
+                    "title": "Page-2",
+                    "pageId": "page2"
+                }
+            ]
+        },
+        {
+            "title": "Topic-2",
+            "pageId": "page3"
+        }
+    ]
+}
