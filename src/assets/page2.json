@@ -2,6 +2,10 @@
     "pageId": "page2",
     "contents": [
         {
+            "type": "heading",
+            "text": "How to share photos on the platform"
+        },
+        {
             "type": "faq",
             "question": "How do I upload a photo?",
             "answer": "To upload a photo, follow these steps: \n\n 1. Go to your profile settings \n 2. Click on the 'Upload Photo' button \n 3. Select a photo from your device \n 4. Click on the 'Save Changes' button"
@@ -9,12 +13,6 @@
         {
             "type": "paragraph",
             "text": "The platform is a great place to share your photos and connect with others. You can upload photos to your profile and share them with your friends."
-        },
-        {
-            "type": "image",
-            "title": "Uploading photos",
-            "imageUrl": "https://example.com/upload.png",
-            "caption": "Uploading photos is easy and fun on the platform."
         },
         {
             "type": "bulletpoints",
@@ -25,6 +23,12 @@
                 "Discover new friends",
                 "Join photo groups"
             ]
+        },
+        {
+            "type": "image",
+            "title": "Uploading photos",
+            "imageUrl": "https://source.unsplash.com/900x400/?landscape",
+            "caption": "Uploading photos is easy and fun on the platform."
         }
     ]
 }

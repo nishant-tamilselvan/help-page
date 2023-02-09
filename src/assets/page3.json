@@ -1,0 +1,50 @@
+{
+    "pageId": "page3",
+    "contents": [
+        {
+            "type": "heading",
+            "text": "How to use the platform -3"
+        },
+        {
+            "type": "faq",
+            "question": "How do I change my password?",
+            "answer": "To change your password, follow these steps: \n\n 1. Go to your profile settings \n 2. Click on the 'Change Password' button \n 3. Enter your new password \n 4. Click on the 'Save Changes' button"
+        },
+        {
+            "type": "paragraph",
+            "text": "Welcome to the <b>platform</b>! To get started, simply create an account and start exploring. You can find new friends, join groups, and participate in discussions."
+        },
+        {
+            "type": "paragraph",
+            "text": "Welcome to the platform! To get started, simply create an account and start exploring. You can find new friends, join groups, and participate in discussions."
+        },
+        {
+            "type": "paragraph",
+            "text": "Welcome to the platform! To get started, simply create an account and start exploring. You can find new friends, join groups, and participate in discussions."
+        },
+        {
+            "type": "bulletpoints",
+            "title": "Features of the platform",
+            "points": [
+                "Find new friends",
+                "Join groups",
+                "Participate in discussions",
+                "Discover new content"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Welcome to the platform! To get started, simply create an account and start exploring. You can find new friends, join groups, and participate in discussions."
+        },
+        {
+            "type": "image",
+            "title": "Using the feed",
+            "imageUrl": "https://source.unsplash.com/900x450/?landscape",
+            "caption": "The feed is the main hub of activity on the platform."
+        },
+        {
+            "type": "paragraph",
+            "text": "Welcome to the platform! To get started, simply create an account and start exploring. You can find new friends, join groups, and participate in discussions."
+        }
+    ]
+}

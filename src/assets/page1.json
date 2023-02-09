@@ -2,19 +2,17 @@
     "pageId": "page1",
     "contents": [
         {
+            "type": "heading",
+            "text": "How to use the platform"
+        },
+        {
             "type": "faq",
             "question": "How do I change my password?",
             "answer": "To change your password, follow these steps: \n\n 1. Go to your profile settings \n 2. Click on the 'Change Password' button \n 3. Enter your new password \n 4. Click on the 'Save Changes' button"
         },
         {
             "type": "paragraph",
-            "text": "Welcome to the platform! To get started, simply create an account and start exploring. You can find new friends, join groups, and participate in discussions."
-        },
-        {
-            "type": "image",
-            "title": "Using the feed",
-            "imageUrl": "https://example.com/feed.png",
-            "caption": "The feed is the main hub of activity on the platform."
+            "text": "Welcome to the platform! To get started, simply create an account and start exploring. \n\n 1. Go to your profile settings You can find new friends, join groups, and participate in discussions."
         },
         {
             "type": "bulletpoints",
@@ -27,8 +25,10 @@
             ]
         },
         {
-            "type": "heading",
-            "text": "How to use the platform"
+            "type": "image",
+            "title": "Using the feed",
+            "imageUrl": "https://source.unsplash.com/900x450/?landscape",
+            "caption": "The feed is the main hub of activity on the platform."
         }
     ]
 }

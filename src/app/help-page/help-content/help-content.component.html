@@ -1,0 +1,19 @@
+<div class="help-content-container">
+    <h3 class="help-content-header">{{PageTitle}}</h3>
+    <ng-container *ngFor="let _content of content">
+        <!-- <ng-container *ngIf="content.type === 'faq'" [ngTemplateOutlet]="faq"></ng-container> -->
+        <ng-container *ngIf="_content.type === 'paragraph'">
+            <app-paragraph [text]="_content.text"></app-paragraph>
+        </ng-container>
+        <ng-container *ngIf="_content.type === 'image'">
+            <app-image [title]="_content.title" [imageUrl]="_content.imageUrl" [caption]="_content.caption">
+            </app-image>
+        </ng-container>
+        <ng-container *ngIf="_content.type === 'bulletpoints'">
+            <app-bulletpoint [title]="_content.title" [points]="_content.points"></app-bulletpoint>
+        </ng-container>
+        <ng-container *ngIf="_content.type === 'heading'">
+            <app-heading [text]="_content.text"></app-heading>
+        </ng-container>
+    </ng-container>
+</div>

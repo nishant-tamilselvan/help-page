@@ -1,0 +1,16 @@
+.help-content-bulletpoints {
+    margin-bottom: 20px;
+}
+
+.help-content-bulletpoints-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.help-content-bulletpoints-points {
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    list-style-type: circle;
+}
