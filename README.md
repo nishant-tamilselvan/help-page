@@ -1,27 +1,56 @@
-# HelpPage
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
+# Angular Material Tree Structure Help Page
+A Help page developed using Angular Material library and JSON data file. The page is designed in such a way that it's modular and scalable to add more help document in future.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+-   Displaying help contents in tree structure
+-   Loading the contents from a JSON file
+-   Modular and scalable for future changes
+-   Render contents of each type with material style
+## Installation
 
-## Code scaffolding
+Clone the repository
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+    git clone https://github.com/nishant-tamilselvan/help-page.git
 
-## Build
+Navigate to the project directory
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+    cd help-page
 
-## Running unit tests
+Install the dependencies
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+    npm install 
 
-## Running end-to-end tests
+Start the development server
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+    ng serve 
 
-## Further help
+## Built With
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+-   [Angular CLI](https://cli.angular.io/) - The Angular CLI is a command-line interface for Angular.
+-   [Angular Material](https://material.angular.io/) - Angular Material is a UI component library for Angular applications.
+
+## Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/nishant-tamilselvan/help-page/issues).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## Author
+
+Nishant Tamilselvan - [https://github.com/nishant-tamilselvan](https://github.com/nishant-tamilselvan)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/nishant-tamilselvan/help-page/LICENSE.md) file for details.
+## Acknowledgments
+
+-   Inspiration: [Material Design Guidelines](https://material.io/design/)
+-   [Angular Material Documentation](https://material.angular.io/components/categories)
+
+
